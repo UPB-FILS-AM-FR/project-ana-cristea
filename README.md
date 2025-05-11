@@ -2,7 +2,7 @@
 # Moniteur de Santé avec Détection de Chute
 
 ## Auteur
-**[Votre Nom Complet]**
+Cristea Ana
 
 ## Description
 Ce projet consiste en un dispositif portable de surveillance de la santé capable de mesurer le rythme cardiaque, le niveau d'oxygène dans le sang (SpO₂), la température corporelle et de détecter les chutes brusques. Les données sont affichées sur un écran OLED, et une alerte sonore est émise en cas d'anomalie (rythme cardiaque anormal, chute détectée).
@@ -36,7 +36,8 @@ Ce dispositif vise à fournir une surveillance en temps réel de l'état de sant
 
 ## Schéma Électrique
 
-Le schéma électrique détaillé du projet est disponible dans le répertoire du projet sous le nom `schematic.png`. Ce schéma illustre les connexions entre les composants suivants :
+to be updated 
+Ce schéma illustre les connexions entre les composants suivants :
 
 - **ESP32**
 - **MAX30102**
@@ -88,4 +89,3 @@ Le schéma électrique détaillé du projet est disponible dans le répertoire d
 - [Tutoriel Random Nerd - MAX30102 avec ESP32](https://randomnerdtutorials.com/esp32-max30102-heart-rate-oximeter-spo2/)
 - [Circuit Digest - Détection de chute avec MPU6050](https://circuitdigest.com/microcontroller-projects/fall-detection-system-using-arduino-and-mpu6050)
 - [Adafruit - Écran OLED SSD1306](https://learn.adafruit.com/monochrome-oled-breakouts/overview)
-- [Conseils d'alimentation pour ESP32](https://randomnerdtutorials.com/esp32-battery-power/)
