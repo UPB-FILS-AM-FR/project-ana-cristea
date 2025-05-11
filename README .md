@@ -96,4 +96,3 @@ Acest dispozitiv are ca scop monitorizarea stării de sănătate a utilizatorulu
 - [Tutorial: Using MAX30102 with ESP32 (Random Nerd)](https://randomnerdtutorials.com/esp32-max30102-heart-rate-oximeter/)
 - [MPU6050 Fall Detection Example](https://circuitdigest.com/microcontroller-projects/fall-detection-system-using-arduino-and-mpu6050)
 - [Adafruit OLED SSD1306](https://learn.adafruit.com/monochrome-oled-breakouts/arduino-library-and-examples)
-- [ESP32 Power Supply Tips](https://randomnerdtutorials.com/esp32-battery-power/)
