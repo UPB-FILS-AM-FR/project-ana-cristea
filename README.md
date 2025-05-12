@@ -36,7 +36,7 @@ Ce dispositif vise à fournir une surveillance en temps réel de l'état de sant
 
 ## Schéma Électrique
 
-to be updated 
+schema.jpeg
 Ce schéma illustre les connexions entre les composants suivants :
 
 - **ESP32**
